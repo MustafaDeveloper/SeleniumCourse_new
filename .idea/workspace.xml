@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="416707b9-babd-4db9-805f-06fb1ec2ab43" name="Default Changelist" comment="seleniumCourse.03.10.20">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/src/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="ProjectId" id="1h158GUztNaDFnw3Kbn2e3LcQWi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Mustafa\IdeaProjects\SeleniumCourse\src" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="416707b9-babd-4db9-805f-06fb1ec2ab43" name="Default Changelist" comment="" />
+      <created>1599165596337</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599165596337</updated>
+    </task>
+    <task id="LOCAL-00001" summary="seleniumCourse.03.10.20">
+      <created>1599165754938</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599165754938</updated>
+    </task>
+    <task id="LOCAL-00002" summary="sdsa">
+      <created>1599589321613</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1599589321613</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="seleniumCourse.03.10.20" />
+    <MESSAGE value="sdsa" />
+    <option name="LAST_COMMIT_MESSAGE" value="sdsa" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2213" y="-820" key="FileChooserDialogImpl" timestamp="1599165691915">
+      <screen x="1473" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="2213" y="-820" key="FileChooserDialogImpl/0.0.1368.872/-447.-1080.1920.1040/1473.-1080.1920.1040@1473.-1080.1920.1040" timestamp="1599165691915" />
+    <state x="2295" y="-663" key="Github.ShareDialog" timestamp="1599589672558">
+      <screen x="1473" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="2295" y="-663" key="Github.ShareDialog/0.0.1368.872/-447.-1080.1920.1040/1473.-1080.1920.1040@1473.-1080.1920.1040" timestamp="1599589672558" />
+    <state x="2025" y="-828" key="Vcs.Push.Dialog.v2" timestamp="1599165824048">
+      <screen x="1473" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="2025" y="-828" key="Vcs.Push.Dialog.v2/0.0.1368.872/-447.-1080.1920.1040/1473.-1080.1920.1040@1473.-1080.1920.1040" timestamp="1599165824048" />
+    <state x="2518" y="-672" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599589391381">
+      <screen x="1473" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="2518" y="-672" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1368.872/-447.-1080.1920.1040/1473.-1080.1920.1040@1473.-1080.1920.1040" timestamp="1599589391381" />
+  </component>
+</project>
