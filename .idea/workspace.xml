@@ -11,8 +11,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="416707b9-babd-4db9-805f-06fb1ec2ab43" name="Default Changelist" comment="seleniumCourse.03.10.20">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +38,9 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Mustafa\IdeaProjects\SeleniumCourse" />
       <recent name="C:\Users\Mustafa\IdeaProjects\SeleniumCourse\src" />
+      <recent name="C:\Users\Mustafa\IdeaProjects\SeleniumCourse\.idea" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -75,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599589700585</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="seleniumCourse.03.10.20">
+      <created>1599596671926</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1599596671926</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -101,17 +108,25 @@
       <screen x="1473" y="-1080" width="1920" height="1040" />
     </state>
     <state x="2213" y="-820" key="FileChooserDialogImpl/0.0.1368.872/-447.-1080.1920.1040/1473.-1080.1920.1040@1473.-1080.1920.1040" timestamp="1599165691915" />
-    <state x="2295" y="-663" key="Github.ShareDialog" timestamp="1599589672558">
+    <state x="2214" y="-659" key="Github.CreateGistDialog" timestamp="1599596717857">
       <screen x="1473" y="-1080" width="1920" height="1040" />
     </state>
-    <state x="2295" y="-663" key="Github.ShareDialog/0.0.1368.872/-447.-1080.1920.1040/1473.-1080.1920.1040@1473.-1080.1920.1040" timestamp="1599589672558" />
+    <state x="2214" y="-659" key="Github.CreateGistDialog/0.0.1368.872/-447.-1080.1920.1040/1473.-1080.1920.1040@1473.-1080.1920.1040" timestamp="1599596717857" />
+    <state x="2293" y="-649" key="Github.Dialog.Accounts.Choose" timestamp="1599596876461">
+      <screen x="1473" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="2293" y="-649" key="Github.Dialog.Accounts.Choose/0.0.1368.872/-447.-1080.1920.1040/1473.-1080.1920.1040@1473.-1080.1920.1040" timestamp="1599596876461" />
+    <state x="2295" y="-663" key="Github.ShareDialog" timestamp="1599596858153">
+      <screen x="1473" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="2295" y="-663" key="Github.ShareDialog/0.0.1368.872/-447.-1080.1920.1040/1473.-1080.1920.1040@1473.-1080.1920.1040" timestamp="1599596858153" />
     <state x="2025" y="-828" key="Vcs.Push.Dialog.v2" timestamp="1599165824048">
       <screen x="1473" y="-1080" width="1920" height="1040" />
     </state>
     <state x="2025" y="-828" key="Vcs.Push.Dialog.v2/0.0.1368.872/-447.-1080.1920.1040/1473.-1080.1920.1040@1473.-1080.1920.1040" timestamp="1599165824048" />
-    <state x="2518" y="-672" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599589724317">
+    <state x="2518" y="-672" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599596678677">
       <screen x="1473" y="-1080" width="1920" height="1040" />
     </state>
-    <state x="2518" y="-672" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1368.872/-447.-1080.1920.1040/1473.-1080.1920.1040@1473.-1080.1920.1040" timestamp="1599589724317" />
+    <state x="2518" y="-672" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1368.872/-447.-1080.1920.1040/1473.-1080.1920.1040@1473.-1080.1920.1040" timestamp="1599596678677" />
   </component>
 </project>

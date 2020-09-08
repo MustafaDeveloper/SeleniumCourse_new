@@ -13,6 +13,9 @@ public class BaseStaticDriver {
          System.setProperty("webdriver.chrome.driver", "drivers/chromedriver.exe");
          // hangi browserı kullanacağımı ve tarayıcının path ini verdim.
          driver = new ChromeDriver(); // çalıştıracağımız driverı kontrol edecek değişkeni tanımladım.
+         driver.manage().window().maximize();
+         driver.manage().deleteAllCookies();
+
      }
 
 }
