@@ -6,21 +6,14 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
     </expand>
     <select />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="416707b9-babd-4db9-805f-06fb1ec2ab43" name="Default Changelist" comment="seleniumCourse.03.10.20">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/src/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +68,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599589321613</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="seleniumCourse.03.10.20">
+      <created>1599589700585</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1599589700585</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -88,12 +88,13 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="seleniumCourse.03.10.20" />
     <MESSAGE value="sdsa" />
-    <option name="LAST_COMMIT_MESSAGE" value="sdsa" />
+    <MESSAGE value="seleniumCourse.03.10.20" />
+    <option name="LAST_COMMIT_MESSAGE" value="seleniumCourse.03.10.20" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2213" y="-820" key="FileChooserDialogImpl" timestamp="1599165691915">
@@ -108,9 +109,9 @@
       <screen x="1473" y="-1080" width="1920" height="1040" />
     </state>
     <state x="2025" y="-828" key="Vcs.Push.Dialog.v2/0.0.1368.872/-447.-1080.1920.1040/1473.-1080.1920.1040@1473.-1080.1920.1040" timestamp="1599165824048" />
-    <state x="2518" y="-672" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599589391381">
+    <state x="2518" y="-672" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599589724317">
       <screen x="1473" y="-1080" width="1920" height="1040" />
     </state>
-    <state x="2518" y="-672" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1368.872/-447.-1080.1920.1040/1473.-1080.1920.1040@1473.-1080.1920.1040" timestamp="1599589391381" />
+    <state x="2518" y="-672" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1368.872/-447.-1080.1920.1040/1473.-1080.1920.1040@1473.-1080.1920.1040" timestamp="1599589724317" />
   </component>
 </project>
